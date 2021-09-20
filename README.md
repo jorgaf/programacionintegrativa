@@ -13,11 +13,11 @@ El código está organizado en carpetas por temas. La asociación entre carpetas
 
 ### Semana 4:
 
-- [/webservices/src/main/java/ec/edu/utpl/pintegrativa/ws/rest/](REST)
+- [REST](/webservices/src/main/java/ec/edu/utpl/pintegrativa/ws/rest/)
 
 ### Semana 5:
 
-- [/microservices](Microservicios)
+- [Microservicios](/microservices)
 
 ### Semana 6:
 
@@ -29,19 +29,19 @@ El código está organizado en carpetas por temas. La asociación entre carpetas
 
 ### Semana 11:
 
-- [/unstructureddata](Integración de datos no estructurados)
+- [Integración de datos no estructurados](/unstructureddata)
 
 ### Semana 12:
 
-- [/semistructureddata/JSONProcessing/](Procesamiento de JSON)
+- [Procesamiento de JSON](/semistructureddata/JSONProcessing/)
 
 ### Semana 13:
 
-- [/semistructureddata/XML/XML2Java/](XML a objetos Java)
-- [/semistructureddata/XML/ManipulaDOMXPath/](Acceso a través de DOM)
+- [XML a objetos Java](/semistructureddata/XML/XML2Java/)
+- [Acceso a través de DOM](/semistructureddata/XML/ManipulaDOMXPath/)
 
 ### Semana 14:
 
-- [/structureddata/JDBCExample/](JDBC)
-- [/structureddata/JDBIExample/](JDBI)
-- [/structureddata/JPAEXAMPLE/](JPA)
+- [JDBC](/structureddata/JDBCExample/)
+- [JDBI](/structureddata/JDBIExample/)
+- [JPA](/structureddata/JPAEXAMPLE/)
