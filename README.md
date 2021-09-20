@@ -4,5 +4,3 @@ El código está organizado en carpetas por temas. La asociación entre carpetas
 
 ###Semana 2:
 [/sockets](sockets)
-
-
