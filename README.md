@@ -1,46 +1,46 @@
-#Itinerario 2: Programación Integrativa
+# Itinerario 2: Programación Integrativa
 
 El código está organizado en carpetas por temas. La asociación entre carpetas y semanas de clase es la siguiente:
 
-###Semana 2:
+### Semana 2:
 
-- [/sockets](sockets)
+- [sockets](/sockets)
 
-###Semana 3:
+### Semana 3:
 
-- [/xmlexample](Generación de archivos XML)
-- [/webservices/src/main/java/ec/edu/utpl/pintegrativa/ws/soap/](SOAP)
+- [Generación de archivos XML](/xmlexample)
+- [SOAP](/webservices/src/main/java/ec/edu/utpl/pintegrativa/ws/soap/)
 
-###Semana 4:
+### Semana 4:
 
 - [/webservices/src/main/java/ec/edu/utpl/pintegrativa/ws/rest/](REST)
 
-###Semana 5:
+### Semana 5:
 
 - [/microservices](Microservicios)
 
-###Semana 6:
+### Semana 6:
 
 - JWT
 
-###Semana 7:
+### Semana 7:
 
 - API RESTful
 
-###Semana 11:
+### Semana 11:
 
 - [/unstructureddata](Integración de datos no estructurados)
 
-###Semana 12:
+### Semana 12:
 
 - [/semistructureddata/JSONProcessing/](Procesamiento de JSON)
 
-###Semana 13:
+### Semana 13:
 
 - [/semistructureddata/XML/XML2Java/](XML a objetos Java)
 - [/semistructureddata/XML/ManipulaDOMXPath/](Acceso a través de DOM)
 
-###Semana 14:
+### Semana 14:
 
 - [/structureddata/JDBCExample/](JDBC)
 - [/structureddata/JDBIExample/](JDBI)
