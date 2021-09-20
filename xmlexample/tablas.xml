@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tablas>
+    <tabla order="1">
+        <nombre>tabla1</nombre>
+        <campos>
+            <campo order="1">
+                <nombre>Nombre</nombre>
+                <tipo>Char</tipo>
+                <longitud>50</longitud>
+            </campo>
+            <campo order="2">
+                <nombre>Apellidos</nombre>
+                <tipo>Char</tipo>
+                <longitud>100</longitud>
+            </campo>
+            <campo order="3">
+                <nombre>dni</nombre>
+                <tipo>Char</tipo>
+                <longitud>10</longitud>
+            </campo>
+        </campos>
+    </tabla>
+    <tabla order="2">
+        <nombre>tabla2</nombre>
+        <campos>
+            <campo order="1">
+                <nombre>Código</nombre>
+                <tipo>Int</tipo>
+                <longitud>50</longitud>
+            </campo>
+            <campo order="2">
+                <nombre>Nombre</nombre>
+                <tipo>Char</tipo>
+                <longitud>100</longitud>
+            </campo>
+            <campo order="3">
+                <nombre>Descripción</nombre>
+                <tipo>Char</tipo>
+                <longitud>10</longitud>
+            </campo>
+        </campos>
+    </tabla>
+</tablas>
